@@ -16,4 +16,4 @@ sleep(1.5)
 pya.click(x=1848, y=444)   # clicando para começar a tocar
 sleep(2)
 
-pya.click(x=1799, y=10)  # minimizando a janela
+pya.click(x=1799, y=10)  # minimizando a janelae
